@@ -1,12 +1,12 @@
 body{
-    background-color: #DDBC95;
+    background-color: #97a8bb;
     color: #555555;
     font-size: 20px;
     padding: 40px;
     text-align: center;
   }
   .white-box{
-    background: #FFFFFF;
+    background: #9fcbd3;
     border-radius: 10px;
     display: inline-block;
     width: 50%;
@@ -16,7 +16,7 @@ body{
   }
   button{
     background-color: #FFFFFF;
-    border: solid 2px #B38867;
+    border: solid 2px #837060;
     color: #555555;
     font-size: 16px;
     margin-bottom: 10px;
@@ -24,6 +24,6 @@ body{
     width: 100%;
   }
   button:hover {
-    background: #B38867;
+    background: #b3937b;
     color: #FFFFFF;
   }
