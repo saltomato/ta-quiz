@@ -23,7 +23,9 @@ body{
     padding: 16px;
     width: 100%;
   }
-  button:hover {
-    background: #b3937b;
-    color: #FFFFFF;
+  @media screen and (max-width: 768px) {
+    button:hover {
+      background: #b3937b;
+      color: #FFFFFF;
+    }
   }
